@@ -1,0 +1,872 @@
+1507,Banda Aceh,35000
+1507,Bireun,58500
+1507,Blang Kejeren,82000
+1507,Blang Pidie,64900
+1507,Idi Rayeuk,61900
+1507,Jantho,61900
+1507,Kuala Simpang,64500
+1507,Kutacane,81000
+1507,Krueng Sabee,81000
+1507,Langsa,60500
+1507,Lhoksumawe,60500
+1507,Lhoksukon,60500
+1507,Meulaboh,60500
+1507,Meureudu,81000
+1507,Sabang,60500
+1507,Sigli,60500
+1507,Simpang Tiga Redelon,81000
+1507,Sinabang,82000
+1507,Singkil,82000
+1507,Subulussalam,81000
+1507,Suka Makmur,82000
+1507,Takengon,60500
+1507,Tapak Tuan,81000
+1507,Calang,82000
+1507,Kab. Bireun,71000
+1507,Kab. Gayo Lues,98500
+1507,Kab. Aceh Barat Daya,78000
+1507,Kab. Aceh Timur,75000
+1507,Kab. Aceh Besar,75000
+1507,Kab. Aceh Taminang,77500
+1507,Kab. Aceh Tenggara,97500
+1507,Kab. Aceh Jaya,97500
+1507,Kab. Aceh Utara,73000
+1507,Kab. Aceh Barat,73000
+1507,Kab. Pidie Jaya,97500
+1507,Kab. Pidie,73000
+1507,Kab. Bener Mariah,97500
+1507,Kab. Simeulue,98500
+1507,Kab. Aceh Singkil,98500
+1507,Kab. Nagan Raya,98500
+1507,Kab. Aceh Tengah,73000
+1507,Kab. Aceh Selatan,97500
+1536,Balige,63000
+1536,Binjai,40500
+1536,Dolok Sanggul,71000
+1536,Gunung Sitoli,72000
+1536,Gunung Tua,70000
+1536,Kabanjahe,43500
+1536,Kisaran,46000
+1536,Limapuluh,70000
+1536,Lubuk Pakam,40000
+1536,Medan,28500
+1536,Padang Sidempuan,47000
+1536,Pangururan,63000
+1536,Panyambungan,79000
+1536,Pamatangsiantar,44000
+1536,Rantau Prapat,49000
+1536,Salak,78000
+1536,Sei Rampah,61000
+1536,Sibolga,48500
+1536,Sibuhuan,61000
+1536,Sidikalang,61000
+1536,Sipirok,61000
+1536,Stabat,42500
+1536,Tanjung Balai Asahan,49000
+1536,Taruntung,53000
+1536,Tebing Tinggi,43000
+1536,Teluk Dalam,70000
+1536,Pangkalan Brandan,43000
+1536,Laguboti,67000
+1536,Belawan,40500
+1536,Siborong Borong,71000
+1536,Tanjung Morawa,40500
+1536,Kab. Toba Samosir,75500
+1536,Kab. Humbang Hasudutan,85500
+1536,Kab. Nias,86500
+1536,Kab. Padang Lawas Utara,84000
+1536,Kab. Karo,52500
+1536,Kab. Asahan,55500
+1536,Kab. Batubara,84000
+1536,Kab. Deli Serdang,48000
+1536,Kab. Samosir,75500
+1536,Kab. Mandailing Natal,95000
+1536,Kab. Simalungan,53000
+1536,Kab. Labuhan Batu,59000
+1536,Kab. Pakpak Bharat,94000
+1536,Kab. Serdang Badagai,73500
+1536,Kab. Tapanuli Tengah,58500
+1536,Kab. Padang Lawas,73500
+1536,Kab. Dairi,73500
+1536,Kab. Tapanuli Selatan,73500
+1536,Kab. Langkat,51000
+1536,Kab. Tapanuli Utara,63500
+1536,Kab. Nias Selatan,84000
+1529,Bagan Siapi-api,61000
+1529,Bangkinang,40500
+1529,Bengkalis,48000
+1529,Dumai,40500
+1529,Pangkalan Kerinci,61000
+1529,Pasir Pangaraian,26500
+1529,Pekanbaru,48500
+1529,Rengat,70000
+1529,Siak Indrapura,70000
+1529,Teluk Kuantan,48000
+1529,Tembilahan,42500
+1529,Minas,37500
+1529,Rumbai,61000
+1529,Marpotyan,61000
+1529,Ujung Batu,40500
+1529,Kab. Rokan Hilir,73500
+1529,Kab. Kampar,48500
+1529,Kab. Bengkalis,57500
+1529,Kab. Pelalawan,73500
+1529,Kab. Rokan Hulu,73500
+1529,Kab. Indragiri Hulu,58500
+1529,Kab. Siak,84000
+1529,Kab. Kuantan Singingi,84000
+1529,Kab. Indragiri Hilir,57500
+1511,Bandar Seri Bintan,61000
+1511,Batam,30000
+1511,Ranai,63000
+1511,Tanjung Balai Karimun-Kundur,47000
+1511,Tanjung Pinang,38500
+1511,Nongsa,34000
+1511,Kabil,39000
+1511,Lingga-Daik,61000
+1511,Debo Singkep,63000
+1511,Kab. Bintan,73500
+1511,Kab. Natuna,75500
+1511,Kab. Karimun,56500
+1511,Kab. Lingga,73500
+1534,Arosuka,61000
+1534,Batu Sangkar,36400
+1534,Bukittinggi,36400
+1534,Lubuk Basung,61000
+1534,Lubuk Sikaping,39500
+1534,Muara-Sijunjung,44500
+1534,Padang,26500
+1534,Padang Panjang,36400
+1534,Painan,40500
+1534,Pariaman,36400
+1534,Padang Pariaman,36400
+1534,Payakumbuh,36400
+1534,Dharmasraya,61000
+1534,Sawahlunto,36400
+1534,Solok,36400
+1534,Tuapejat,61000
+1534,Lima Puluh Kota,61000
+1534,Solok Selatan,36400
+1534,Kep Pagai,61000
+1534,Lubuk Alung,61000
+1534,Kab. Solok,73500
+1534,Kab. Tanah Datar,45000
+1534,Kab. Agam,73500
+1534,Kab. Pasaman,47500
+1534,Kab. Sijunjung,53500
+1534,Kab. Pesisir Selatan,49000
+1534,Kab. Padang Pariaman,43500
+1534,Kab. Dharmasraya,73500
+1534,Kab. Kepulauan Mentawai,73500
+1534,Kab. Lima Puluh kota,73500
+1514,Bangko,42000
+1514,Jambi,26500
+1514,Kuala Tungkai,41000
+1514,Muara Bulian,34000
+1514,Muara Bungo,42000
+1514,Muara Tebo,61000
+1514,Muara Sabak,61000
+1514,Sarolangun,61000
+1514,Sengeti,61000
+1514,Sungai Penuh,42000
+1514,Ramba,61000
+1514,Kab. Marangin,50500
+1514,Kab. Tanjung Jabung Barat,49500
+1514,Kab. Batang Hari,41000
+1514,Kab. Bungo,50500
+1514,Kab. Tebo,73500
+1514,Kab. Tanjung Jabung Timur,73500
+1514,Kab. Sarolangun,73500
+1514,Kab. Muara Jambi,73500
+1514,Kab. Kerinci,50500
+1535,Baturaja,41000
+1535,Indralaya,61000
+1535,Kayu Agung,34500
+1535,Lahat,41600
+1535,Martapura,61000
+1535,Muara Beili Baru-Musi Rawas,61000
+1535,Muara Enim-Tanjung Enim,41600
+1535,Muaradua,61000
+1535,Lubuk Linggau,41600
+1535,Pagar Alam,43600
+1535,Palembang,26500
+1535,Pangkalan Balai-Banyuasin,61000
+1535,Prabumulih,33500
+1535,Sekayu,42000
+1535,Tebing Tinggi,43000
+1535,Sungai Lilin,61000
+1535,Sungai Gerong,61000
+1535,Kab. Ogan Komering Ulu,49500
+1535,Kab. Ogan Ilir,73000
+1535,Kab. Ogan Komering Ilir,41500
+1535,Kab. Kabupaten Lahat,49500
+1535,Kab. Oku Timur,73500
+1535,Kab. Musi Rawas,73500
+1535,Kab. Muara Enim,49000
+1535,Kab. Oku Selatan,73500
+1535,Kab. Banyasin,73500
+1535,Kab. Musi Banyasin,50500
+1535,Kab. Empat Lawang,51500
+1522,Koba,61000
+1522,Manggar,61000
+1522,Mentok,37700
+1522,Pangkal Pinang,29000
+1522,Sungailiat,40000
+1522,Tanjung Pandan,33500
+1522,Toboali,61000
+1522,Belinyu,37700
+1522,Jebus,61000
+1522,Kelapa,61000
+1522,Kab. Bangka Tengah,73500
+1522,Kab. Belitung Timur,73500
+1522,Kab. Bangka Barat,45500
+1522,Kab. Bangka,48000
+1522,Kab. Belitung,40500
+1522,Kab. Bangka Selatan,73500
+1510,Arga Makmur,35000
+1510,Bengkulu,26500
+1510,Curup,47000
+1510,Kaur,61000
+1510,Kepahiang,61000
+1510,Lebong,61000
+1510,Manna,48500
+1510,Muko-muko,61000
+1510,Tais,61000
+1510,Kab. Bengkulu Utara,42000
+1510,Kab. Rajang Lebong,56500
+1510,Kab. Kaur,73500
+1510,Kab. Kepahiang,73500
+1510,Kab. Lebong,73500
+1510,Kab. Bengkulu Selatan,58500
+1510,Kab. Muko-muko,73500
+1510,Kab. Seluma,73500
+1523,Bandar Lampung,18000
+1523,Blambangan Umpu,61000
+1523,Gedong Tataan,61000
+1523,Gunung Sugih,61000
+1523,Kalianda,41000
+1523,Kota Agung,61000
+1523,Kota Bumi,36000
+1523,Liwa,55000
+1523,Manggala,61000
+1523,Metro,35000
+1523,Sukadana,61000
+1523,Bakauheuni,41000
+1523,Krui-Pesisir Tengah,55000
+1523,Sumber Jaya,55000
+1523,Talang Padang,41000
+1523,Pringsewu,38000
+1523,Bukit Kemuning,41000
+1523,Kab. Way Kanan,73500
+1523,Kab. Pesawaran,73500
+1523,Kab. Lampung Tengah,73500
+1523,Kab. Lampung Selatan,49000
+1523,Kab. Tanggamus,73500
+1523,"Kab, Lampung Utara",43500
+1523,Kab. Lampung Barat,66000
+1523,Kab. Tulang Bawang,73500
+1523,Kab. Lampung Timur,73500
+1523,Kab. Lampung Selatan,49000
+1513,Jakarta Pusat-Jakarta Barat-Jakarta Selatan-Jakarta Timur-Jakarta Utara,8000
+1509,Baros,49000
+1509,Cilegon,10000
+1509,Pandeglang,15000
+1509,Rangkasbitung,15000
+1509,Serang,15000
+1509,Tangerang,9000
+1509,Tigaraksa,9000
+1509,Anyer,15000
+1509,Merak,15000
+1509,Balaraja,8500
+1509,Cikupa,8500
+1509,Serpong-BSD,9000
+1509,Kab. Serang,9000
+1509,Kab. Pandeglang,15000
+1509,Kab. Lebak,15000
+1509,Kab. Tangerang,9000
+1515,Bandung,10000
+1515,Banjar,15000
+1515,Bekasi,9000
+1515,Bogor,9000
+1515,Ciamis,15000
+1515,Cianjur,15000
+1515,Cibinong,15000
+1515,Cikarang,9000
+1515,Cimahi,10000
+1515,Cirebon,12000
+1515,Depok,10000
+1515,Garut,15000
+1515,Indramayu,15000
+1515,Karawang,12000
+1515,Kuningan,15000
+1515,Majalengka,15000
+1515,Ngamprah-Cimareme,27000
+1515,Purwakarta,23000
+1515,Singapama,57000
+1515,Soreang,25000
+1515,Subang,15000
+1515,Sukabumi,15000
+1515,Sumber,25000
+1515,Sumedang,15000
+1515,Tasikmalaya,20000
+1515,Majalaya,15000
+1515,Jatinangor,15000
+1515,Lembang,15000
+1515,Rancaakek,16000
+1515,Jatibarang,15000
+1515,Kadipaten,15000
+1515,Losari,55000
+1515,Palimanan,55000
+1515,Jatiwangi,55000
+1515,Kab. Ciamis,18000
+1515,Kab. Cianjur,16000
+1515,Kab. Bogor,15000
+1515,Kab. Bekasi,10000
+1515,Kab. Garut,26400
+1515,Kab. Indaramayu,27600
+1515,Kab. Karawang,14000
+1515,Kab. Kuningan,20000
+1515,Kab. Majalengka,20000
+1515,Kab. Bandung Barat,12500
+1515,Kab. Purwakarta,1500
+1515,Kab. Tasikmalaya,18400
+1515,Kab. Bandung,15000
+1515,Kab. Subang,15500
+1515,Kab. Sukabumi,12400
+1515,Kab. Cirebon,20000
+1515,Kab. Sumedang,20000
+1516,Banjar Negara,31000
+1516,Batang,33000
+1516,Blora,37000
+1516,Boyolali,29000
+1516,Brebes,36400
+1516,Cilacap,31000
+1516,Demak,30000
+1516,Jepara,29000
+1516,Karanganyar,30000
+1516,Kebumen,29000
+1516,Kendal,27000
+1516,Klaten,28000
+1516,Mungkid,21700
+1516,Kudus,25000
+1516,Magelang,11700
+1516,Pati,30000
+1516,Pekalongan,33000
+1516,Pemalang,33000
+1516,Purbalingga,31000
+1516,Purwokerto-Banyumas,30000
+1516,Purwodadi,31000
+1516,Purworejo,25000
+1516,Rembang,31000
+1516,Salatiga,26000
+1516,Semarang,25700
+1516,Slawi,31000
+1516,Sragen,29000
+1516,Sukoharjo,30000
+1516,Surakarta-Solo,14500
+1516,Tegal,31000
+1516,Temanggung,22000
+1516,Ungaran,24000
+1516,Wonogiri,30000
+1516,Wonosobo,22000
+1516,Ambarawa,24000
+1516,Cepu,35000
+1516,Bojonegoro,46000
+1516,Majenang,32000
+1516,Ajibarang,31000
+1516,Kartosuro,24500
+1516,Bumiayu,36400
+1516,Kab. Banjarnegara,37500
+1516,Kab. Batang,39500
+1516,Kab. Blora,44500
+1516,Kab. Boyolali,34800
+1516,Kab. Brebes,43700
+1516,Kab. Cilacap,25500
+1516,Kab. Demak,36000
+1516,Kab. Jepara,34800
+1516,Kab. Karanganyar,36000
+1516,Kab. Kebumen,34800
+1516,Kab. Kendal,21600
+1516,Kab. Magelang,14000
+1516,Kab. Kudus,30000
+1516,Kab. Pati,36000
+1516,Kab. Pemalang,30600
+1516,Kab. Purbalingga,37500
+1516,Kab. Banyumas,36000
+1516,Kab. Grobogan,37500
+1516,Kab. Purworejo,18000
+1516,Kab. Rembang,37500
+1516,Kab. Tegal,37500
+1516,Kab. Sragen,34800
+1516,Kab. Sukoharjo,36000
+1516,Kab. Temanggung,26400
+1516,Kab. Semarang,28800
+1516,Kab. Wonogiri,36000
+1516,Kab. Wonosobo,26400
+1537,Bantul,21700
+1537,Sleman,21700
+1537,Wates-Kulon Progo,21700
+1537,Wonosari,21700
+1537,Yogyakarta,23800
+1537,Prambanan,21700
+1537,Kab. Bantul,14000
+1537,Kab. Sleman,14000
+1537,Kab. Kulon Progo,24000
+1537,Kab. Gunung Kidul,24000
+1517,Bangkalan,47000
+1517,Banyuwangi,40000
+1517,Batu,23000
+1517,Blitar,42000
+1517,Bojonegoro,46000
+1517,Bondowoso,36400
+1517,Caruban,29000
+1517,Gresik,32500
+1517,Jember,29000
+1517,Jombang,32500
+1517,Kediri,28000
+1517,Kepanjen,55000
+1517,Trenggalek,39000
+1517,Krasaan,55000
+1517,Lamongan,31500
+1517,Lumajang,30000
+1517,Madiun,26000
+1517,Magetan,29000
+1517,Malang,23000
+1517,Mojokerto,27300
+1517,Nganjuk,32000
+1517,Ngawi,29000
+1517,Pacitan,44000
+1517,Pamekasan,42000
+1517,Pandaan,28000
+1517,Pasuruan,30000
+1517,Ponorogo,31000
+1517,Probolinggo,28000
+1517,Sampang,42000
+1517,Sidoarjo,24000
+1517,Situbondo,38000
+1517,Sumenep,42000
+1517,Surabaya,22800
+1517,Tuban,32000
+1517,Tulungagung,36400
+1517,Paiton,55000
+1517,Kab. Bangkalan,56500
+1517,Kab. Banyuwangi,48000
+1517,Kab. Bojonegoro,55200
+1517,Kab. Bondowoso,43500
+1517,Kab. Madiun,37500
+1517,Kab. Gresik,34800
+1517,Kab. Jember,34800
+1517,Kab. Jombang,39000
+1517,Kab. Malang,66000
+1517,Kab. Trenggalek,46800
+1517,Kab. Probolinggo,66000
+1517,Kab. Lamongan,37800
+1517,Kab. Lumajang,36000
+1517,Kab. Magetan,34800
+1517,Kab. Nganjuk,38400
+1517,Kab. Ngawi,34800
+1517,Kab. Pacitan,52800
+1517,Kab. Pamekasan,50400
+1517,Kab. Pasuruan,33600
+1517,Kab. Ponorogo,37200
+1517,Kab. Sampang,50400
+1517,Kab. Sidoarjo,28800
+1517,Kab. Situbondo,45600
+1517,Kab. Sumenep,50400
+1517,Kab. Tuban,38400
+1517,Kab. Tulungagung,43680
+1508,Amplapura-Karangasem,37000
+1508,Bangli,31000
+1508,Denpasar,27000
+1508,Gianyar,31000
+1508,Menguwi-Badung,37000
+1508,Negara-Jembrana,35000
+1508,Samarapura-Klungkung,41600
+1508,Singaraja-Buleleng,41600
+1508,Tabanan,37000
+1508,Kuta,28000
+1508,Nusa Dua,28000
+1508,Sanur,28000
+1508,Gilimanuk,53000
+1508,Ngurah Rai,28000
+1508,Jimbaran,28000
+1508,Kab. Karangasem,44400
+1508,Kab. Bangli,37200
+1508,Kab. Gianyar,37200
+1508,Kab. Badung,44400
+1508,Kab. Jembrana,44400
+1508,Kab. Klungkung,42000
+1508,Kab. Buleleng,49500
+1508,Kab. Tabanan,44400
+1518,Bengkayang,59000
+1518,Ketapang,59000
+1518,Menpawah,44000
+1518,Nanga Pinoh-Melawi,59000
+1518,Ngabang,47000
+1518,Pontianak,29000
+1518,Putussiabau,58000
+1518,Sambas,58000
+1518,Sanggau,50000
+1518,Sakadau Hilir,75400
+1518,Singkawang,45000
+1518,Sintang,55000
+1518,Sungai Raya-Kubu Raya,60000
+1518,Teluk Melano,60000
+1518,Wajok,50000
+1518,Kab. Bengkayang,70800
+1518,Kab. Ketapang,70800
+1518,Kab. Pontianak,52800
+1518,Kab. Melawi,70800
+1518,Kab. Landak,56400
+1518,Kab. Kapuas Hulu,69600
+1518,Kab. Sambas,69600
+1518,Kab. Sanggau,60000
+1518,Kab. Sekadau,90500
+1518,Kab. Sintang,66000
+1518,Kab. Kubu Raya,72000
+1518,Kab. Kayong Utara,72000
+1519,Amuntai,54000
+1519,Banjarbaru,35000
+1519,Banjarmasin,30000
+1519,Barabai,55000
+1519,Batu Licin,58000
+1519,Kandangan,55000
+1519,Kotabaru,55000
+1519,Marabahan,40000
+1519,Martapura-Banjar,38000
+1519,Paringin Balangan,72000
+1519,Pelaihari,64000
+1519,Rantau,66000
+1519,Tanjung,66000
+1519,Buntok,72000
+1519,Sungai Danau,57000
+1519,Tamiang Layang,72000
+1519,Purucahu,72000
+1519,Muara Teweh,72000
+1519,Kab. Hulu Sungai Utara,64800
+1519,Kab. Hulu Sungai Tengah,66000
+1519,Kab. Tanah Bambu,69600
+1519,Kab. Hulu Sungai Selatan,66000
+1519,Kab. Kota Baru,66000
+1519,Kab. Barito Kuala,48000
+1519,Kab. Banjar,45600
+1519,Kab. Balangan,72000
+1519,Kab Tanah Laut,54000
+1519,Kab. Tapin,66000
+1519,Kab. Tabalorg,66000
+1519,Kab. Barito Selatan,72000
+1519,Kab. Barito Timur,72000
+1519,Kab. Murung Raya,72000
+1519,Kab. Barito Utara,72000
+1520,KALIMANTAN TENGAH,60000
+1520,Buntok,55000
+1520,Kasongan,60000
+1520,Kuala Kapuas,60000
+1520,Kuala Kurun,60000
+1520,Kuala Pembuang,60000
+1520,Palangkaraya,30000
+1520,Pangkalan Bun,56000
+1520,Pulang Pisau,70000
+1520,Sampit,55000
+1520,Sukamara,70000
+1520,Lamandau-Nangebulik,60000
+1520,Kab. Barito Selatan,66000
+1520,Kab. Katingan,72000
+1520,Kab. Kapuas,72000
+1520,Kab. Gunung Mas,72000
+1520,Kab. Seruyan,72000
+1520,Kab. Kotawaringin Barat,67200
+1520,Kab. Pulang Pisau,84000
+1520,Kab. Kotawaringin Timur,66000
+1520,Kab. Sukamara,84000
+1520,Kab. Barito Timur,72000
+1521,Balikpapan,38000
+1521,Bontang,56000
+1521,Malinau,64000
+1521,Nunukan,64000
+1521,Penajam,70000
+1521,Samarinda,37000
+1521,Sanggata,57000
+1521,Sendawar,64000
+1521,Tanah Grogot,73000
+1521,Tanjung Redep-Berau,58000
+1521,Tanjung Selor,64000
+1521,Tarakan,49000
+1521,Tenggarong,53000
+1521,Teluk Pandan,63000
+1521,Sebatik,64000
+1521,Kalaran,63000
+1521,Sanga-sanga,65000
+1521,Muara Badak,63000
+1521,Loa Kulu,63000
+1521,Kab. Malinau,76800
+1521,Kab. Nunukan,76800
+1521,Kab. Panajam Paser Utara,84000
+1521,Kab. Kutai Timur,68400
+1521,Kab. Kutai Barat,76800
+1521,Kab. Paser,87600
+1521,Kab. Berau,69600
+1521,Kab. Bulungan,76800
+1521,Kab. Kutai Kertanegara,63600
+1531,Ampana-Tojo Una Una,73000
+1531,Banawa-Donggala,54000
+1531,Banggai,81000
+1531,Bungku-Kolonedale,73000
+1531,Buol,73000
+1531,Tolitoli,63000
+1531,Luwuk,60500
+1531,Palu,54000
+1531,Parigi,73000
+1531,Poso,65000
+1531,Kab. Tojo Una-una,87600
+1531,Kab. Donggala,64800
+1531,Kab. Banggai Kepulauan,97200
+1531,Kab. Morowali,87600
+1531,Kab. Buol,87600
+1531,Kab. Tolitoli,75600
+1531,Kab. Banggai,73600
+1531,Kab. Parigi Moutong,87600
+1531,Kab. Poso,78000
+1530,Bantaeng,56000
+1530,Barru,56000
+1530,Belopa,71000
+1530,Benteng,71000
+1530,Bulukumba,58000
+1530,Enrekang,56000
+1530,Jejeponto,71000
+1530,Takalar,45000
+1530,Makale,63000
+1530,Makassar,39000
+1530,Maili,55000
+1530,Maros,45500
+1530,Masamba,66000
+1530,Palopo,55000
+1530,Pangkajene,71000
+1530,Sidenreng,55000
+1530,Pare-Pare,55000
+1530,Pinrang,55000
+1530,Sengkang,56000
+1530,Sinjai,55000
+1530,Sungguminasa,50000
+1530,Watampone,56000
+1530,Watansoppeng,56000
+1530,Soroako,71000
+1530,Kab. Bantaeng,67200
+1530,Kab. Barru,67200
+1530,Kab. Luwu Utara,85200
+1530,Kab. Selayar,85200
+1530,Kab. Bulukumba,69600
+1530,Kab. Enrekang,67200
+1530,Kab. Janeponto,85200
+1530,Kab. Takalar,54000
+1530,Kab. Tana Toraja,75600
+1530,Kab. Luwu Timur,66000
+1530,Kab. Maros,54600
+1530,Kab. Liwu Utara,79500
+1530,Kab. Pangkajene,85500
+1530,Kab. Sidenreng Rapang,66000
+1530,Kab. Pinrang,66000
+1530,Kab. Wajo,67500
+1530,Kab. Sinjai,66000
+1530,Kab. Goa,60000
+1530,Kab. Bone,67500
+1530,Kab. Soppeng,67500
+1532,Bau-Bau,69000
+1532,Kendari,45000
+1532,kolaka,70000
+1532,Lasusua,73000
+1532,Pasar Wajo,73000
+1532,Raha,60000
+1532,Rumbia,72000
+1532,Unaaha,73000
+1532,Wanggodo-Andolo,77000
+1532,Wangi-wangi,73000
+1532,Kab. Kolaka,85000
+1532,Kab. Kolaka Utara,87500
+1532,Kab Butun & Buton Utara,87500
+1532,Kab. Muna,72000
+1532,Kab. Bombana,86500
+1532,Kab. Konawe,87600
+1532,Kab. Konawe Utara-Kab. Konawe Selatan,92500
+1532,Kab. Soppeng,87600
+1533,Airmadidi,73000
+1533,Amurang,75000
+1533,Bitung,66000
+1533,Boroko,75000
+1533,Kotamobagu,73000
+1533,Manado,45000
+1533,Ratahan,75000
+1533,Tahuna,73000
+1533,Tomohon,75000
+1533,Tondano,64000
+1533,Kab. Minahasa Utara,87600
+1533,Kab. Moinahasa Selatan,90000
+1533,Kab. Bitung,79000
+1533,Kab. Bolaang Mongondow Utara,90000
+1533,Kab. Bolaang Mongondow,87600
+1533,Kab. Minahasa Tenggara,90000
+1533,Kab. Kepulauan Sangihe,87600
+1533,Kab. Minahasa,76800
+3949,Majene,66000
+3949,Mamasa,72000
+3949,Mamuju,55000
+3949,pasangkayu,72000
+3949,Polewali,55000
+3949,Kab. Majene,79200
+3949,Kab. Mamasa,86400
+3949,Kab. Mamuju,66000
+3949,Kab. Mamuju Utara,86400
+3949,Kab. Polewali Mandar,66000
+1524,Ambon,53000
+1524,Dataran Hunimoa,90000
+1524,Dobo,90000
+1524,Masohi,83000
+1524,Namlea,90000
+1524,Piru,90000
+1524,Saumlaki,90000
+1524,Tual,83000
+1524,Kab. Seram Bagian Timur,108000
+1524,Kab. Kepulauan Aru,108000
+1524,Kab. Maluku tengah,99600
+1524,Kab. Buru,108000
+1524,Kab. Seram Bagian Barat,108000
+1524,Kab. Maluku Tenggara Barat,108000
+1524,Maluku Tenggara,99600
+1525,Jailolo,90000
+1525,Labuha,90000
+1525,Maba,90000
+1525,Sanana,90000
+1525,Ternate,56000
+1525,Tidore,90000
+1525,Tobelu,90000
+1525,Weda-Soasiu,90000
+1525,Kab. Halmahera Barat,108000
+1525,Kab. Halmahera Selatan,108000
+1525,Kab. Halmahera Timur,108000
+1525,Kab. Halmahera Sula,108000
+1525,Kab. Halmahera Utara,108000
+1525,Kab. Halmahera Tengah,70800
+1526,Dompu,49000
+1526,Gerung,72000
+1526,Mataram,28000
+1526,Raya,39000
+1526,Selong,39000
+1526,Sumbawa Besar,46000
+1526,Taliwang,72000
+1526,Woha-Ramba,72000
+1526,Bima,43000
+1526,Batu Hijau,48000
+1526,Kab. Dompu,58500
+1526,Kab. Lombok Barat,86400
+1526,Kab. Lombok Tengah,46800
+1526,Lombok Timur,46800
+1526,Kab. Sumbawa,55200
+1526,Kab. Sumbawa Barat,56400
+1526,Kab. Bima,56400
+1527,Atambua,72000
+1527,Baa,75000
+1527,Banjawa,88000
+1527,Borong,92300
+1527,Ende,67000
+1527,Kefamenanu,72000
+1527,Kalabahe,62000
+1527,Kupang,38000
+1527,Labuan Bajo,72000
+1527,Larantuka,73000
+1527,Lewoleba,72000
+1527,Maumere,72000
+1527,Mbay,92300
+1527,Oelamsi,92300
+1527,Soe,72000
+1527,Ruteng,72000
+1527,Tambolaka,92300
+1527,Waibakul,92300
+1527,Waikabubak,87000
+1527,Waingapu,68900
+1527,Kab. Belu,86400
+1527,Kab. Rote Ndao,87000
+1527,Kab. Ngada,105000
+1527,Kab. Manggarai Timur,110500
+1527,Kab. Ende,80400
+1527,Kab. Timur Tengah Utara,86400
+1527,Kab. Alor,74400
+1527,Kab. Manggarai Barat,86400
+1527,Kab. Flores Timur,87600
+1527,Kab. Lembata,86400
+1527,Kab. Sikka,86400
+1527,Kab. Nagekeo,110500
+1527,Kab. Kupang,110500
+1527,Kab. Timur Tengah Selatan,86400
+1527,Kab. Manggarai,86400
+1527,Kab. Sumba Barat Daya,110500
+1527,Kab. Sumba Tengah,110500
+1527,Kab. Sumba Barat,104500
+1527,Kab. Sumba Timur,82500
+1512,Gorontalo,55000
+1512,Kwandang,75000
+1512,Limboto,72000
+1512,Marisa,75000
+1512,Suwawa,65000
+1512,Tilamuta,75000
+1512,Kab. Gorontalo Utara,90000
+1512,Kab. Gorontalo,86400
+1512,Kab. Pahuwato,90000
+1512,Kab. Bone Bolango,78000
+1512,Kab. Boalemo,90000
+3950,Bintuni,163000
+3950,Fak-Fak,137800
+3950,Kaimana,163000
+3950,Manokwari,137800
+3950,Rasei,163000
+3950,Sorong,163000
+3950,Waisai,163000
+3950,Timika,115000
+3950,Tembaga Pura,115000
+3950,Teminabuan,163000
+3950,Kab. Teluk Bintuni,195600
+3950,Kab. Fak-Fak,165400
+3950,Kab. Kaimana,195600
+3950,Kab. Manokwari,165500
+3950,Kab. Teluk Wondama,195600
+3950,Kab. Sorong,195600
+3950,Kab. Raja Ampat,195600
+3950,Kab. Mimika,138000
+3950,Kab. Sorong Selatan,195600
+1528,Agats,164000
+1528,Biak,114000
+1528,Botawa,163000
+1528,Jayapura,67800
+1528,Mulia,163000
+1528,Merauke,115000
+1528,Nabire,137000
+1528,Oksibil,163000
+1528,Sarmi,163000
+1528,Sorendiweri,163000
+1528,Sumohai,163000
+1528,Timika,115000
+1528,Wamena,137800
+1528,Waris,126000
+1528,Maapi,163000
+1528,Paniai-Enarotari,163000
+1528,Yapen Waropen-Serui,163000
+1528,Sentani,163000
+1528,Memberamo-Burmeso,163000
+1528,Boven Digul-Tanah Merah,163000
+1528,Kab. Asmat,196800
+1528,Kab. Boak Numfor,136800
+1528,Kab. Puncak Jaya,195600
+1528,Kab. Merauke,138000
+1528,Kab. Nabire,164400
+1528,Kab. Pegunungan Bintang,195600
+1528,Kab. Sarmi,195600
+1528,Kab. Supiori,195600
+1528,Kab. Yahukimo,195600
+1528,Kab. Mimika,138000
+1528,Kab. Jayawijaya,165400
+1528,Kab. Keerom,151200
+1528,Kab. Maapi,195600
+1528,Kab. Enarotari,195600
+1528,Kab. Yapen Waropen,195600
+1528,Kab. Jayapura,195600
+1528,Kab. Memberamo,195600
+1528,Kab. Boven Digul,195600
